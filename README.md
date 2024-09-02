@@ -1,8 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Link to the website : https://popcornpalace.netlify.app/
+The website is hosted on netlify and the website a review webiste that uses TMDB database to show result of popular shows in the specific genres .
+The website was build using the help of HTML/CSS, Javascript and React to handle the frontend part to sort out hte result fetched from the data base into an appealing visual format.
